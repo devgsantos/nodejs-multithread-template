@@ -1,0 +1,1 @@
+This is a NodeJS example template for a simple multithreaded API. The main thread runs the express process then one fork is created and a secondary thread runs the cron job with five functions within.
